@@ -6,7 +6,7 @@ Simple chrome extension to remove paywalls from NYTimes recipes. To install the 
 
 2. Unzip the content in your directory of choice
 
-3. In a Google Chrome browser, type (chrome://extensions)[chrome://extensions] into the URL bar
+3. In a Google Chrome browser, type [chrome://extensions](chrome://extensions) into the URL bar
 
 4. Toggle the "Developer mode" button in the right corner
 
